@@ -111,9 +111,7 @@ Created with ❤️ by [@harshii-02](https://github.com/harshii-02)
 
 ---
 
-## 📄 License
 
-This project is open-sourced under the MIT License. See the `LICENSE` file for details.
 
 ---
 
